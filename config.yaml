@@ -3,8 +3,8 @@ chains:
   gaia-testnet:
     key: wallet
     chain-id: GAIA
-    rpc-addr: http://127.0.0.1:23657
-    grpc-addr: http://127.0.0.1:23006
+    rpc-addr: http://135.181.248.80:23657
+    grpc-addr: http://135.181.248.80:23657
     account-prefix: cosmos
     keyring-backend: test
     gas-adjustment: 1.2
